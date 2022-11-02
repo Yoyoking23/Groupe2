@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "gitgroupe2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "gitgroupe2 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
